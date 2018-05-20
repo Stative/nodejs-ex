@@ -1,0 +1,9 @@
+C:\Users\Администратор-ПК\source\repos\Login\Login\bin\Login.dll.config
+C:\Users\Администратор-ПК\source\repos\Login\Login\bin\Login.dll
+C:\Users\Администратор-ПК\source\repos\Login\Login\bin\Login.pdb
+C:\Users\Администратор-ПК\source\repos\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Администратор-ПК\source\repos\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Администратор-ПК\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Администратор-ПК\source\repos\Login\Login\obj\Debug\Login.dll
+C:\Users\Администратор-ПК\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Администратор-ПК\source\repos\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
